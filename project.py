@@ -1,6 +1,5 @@
 import streamlit as st
 from pycaret.classification import *
-# from pycaret.classification import load_model, predict_model
 import math
 import pandas as pd
 from PIL import Image
