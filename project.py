@@ -1,4 +1,5 @@
 import streamlit as st
+import pycaret
 from pycaret.classification import *
 import math
 import pandas as pd
