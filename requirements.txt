@@ -1,0 +1,7 @@
+numpy==1.23.5
+pickle.mixin==1.0.2
+streamlit==1.26.0
+pandas==1.5.3
+pycaret==3.0.4
+streamlit-option-menu==0.3.2
+scikit-learn==1.2.2
